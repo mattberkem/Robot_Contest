@@ -1,4 +1,3 @@
-// Modified by Scott Stokes, Adam Jones, and Jason Schenk
 
 #ifndef STOKES_ROBOT_CONTROLLER_H
 #define STOKES_ROBOT_CONTROLLER_H
