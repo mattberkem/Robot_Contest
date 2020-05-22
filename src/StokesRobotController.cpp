@@ -1,4 +1,3 @@
-// Modified by Scott Stokes, Adam Jones, and Jason Schenk
 
 #include <cassert>
 #include "StokesRobotController.h"
